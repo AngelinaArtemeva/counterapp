@@ -1,2 +1,2 @@
-/* точка входа */
-
+import './util.js'
+import './main.js'
